@@ -71,6 +71,10 @@
   background: var(--color-purple);
 }
 
+.bg-purple {
+  background-color: var(--color-purple);
+}
+
 .carousel-text {
   margin-left: -35rem;
 }
