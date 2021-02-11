@@ -17,6 +17,15 @@
   -o-background-size: cover;
 }
 
+.section-2 {
+  background-image: url(images/pic_2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
 .hero-title {
   font-family: var(--hero-title-familty-font);
   font-size: var(--hero-title-size);
